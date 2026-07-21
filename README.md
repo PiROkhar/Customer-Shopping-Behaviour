@@ -156,7 +156,7 @@ Replicate successful sales and marketing strategies from Montana in lower-perfor
 
 ## 📷 Dashboard Preview
 
-Dashboard.pbix
+Dashboard.png
 
 ---
 
