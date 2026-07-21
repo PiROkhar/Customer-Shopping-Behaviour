@@ -36,21 +36,6 @@ The dashboard helps answer questions such as:
 - **Source:** Customer Shopping Trends Dataset
 - **Records:** 3,900 Customers
 
-### Important Features
-
-- Customer ID
-- Age
-- Gender
-- Category
-- Item Purchased
-- Purchase Amount
-- Season
-- Subscription Status
-- Payment Method
-- Location
-- Review Rating
-- Shipping Type
-
 ---
 
 ## 🧹 Data Cleaning
